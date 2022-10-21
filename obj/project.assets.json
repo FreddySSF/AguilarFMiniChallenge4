@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ferna\\.nuget\\packages\\": {}
+    "/Users/brandonle/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge4\\AguilarFMiniChallenge4.csproj",
+      "projectUniqueName": "/Users/brandonle/Desktop/GitRepository/AguilarFMiniChallenge4/AguilarFMiniChallenge4.csproj",
       "projectName": "AguilarFMiniChallenge4",
-      "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge4\\AguilarFMiniChallenge4.csproj",
-      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge4\\obj\\",
+      "projectPath": "/Users/brandonle/Desktop/GitRepository/AguilarFMiniChallenge4/AguilarFMiniChallenge4.csproj",
+      "packagesPath": "/Users/brandonle/.nuget/packages/",
+      "outputPath": "/Users/brandonle/Desktop/GitRepository/AguilarFMiniChallenge4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/brandonle/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
